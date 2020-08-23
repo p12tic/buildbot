@@ -24,6 +24,7 @@ Build Steps
     gitcommit
     gittag
     gitpush
+    diffinfo
     shell_command
     shell_sequence
     compile
@@ -121,6 +122,7 @@ The following build steps are available:
     * :ref:`Step-GitCommit`
     * :ref:`Step-GitTag`
     * :ref:`Step-GitPush`
+    * :ref:`Step-DiffInfo`
 
 * **ShellCommand steps** - used to perform various shell-based operations
 
